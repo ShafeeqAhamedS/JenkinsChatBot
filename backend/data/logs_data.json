@@ -1,0 +1,86 @@
+{
+    "5bf7349cc9df": {
+        "job_name": "Joba",
+        "build_number": "1",
+        "log": "[Started by user admin, [Pipeline] Start of Pipeline, [Pipeline] node, Running on Jenkins in /var/lib/jenkins/workspace/Job1, [Pipeline] {, [Pipeline] stage, [Pipeline] { (Check Parameter), [Pipeline] script, [Pipeline] {, [Pipeline] error, [Pipeline] }, [Pipeline] // script, [Pipeline] }, [Pipeline] // stage, [Pipeline] stage, [Pipeline] { (Declarative: Post Actions), [Pipeline] echo, Job failed. Please review your input., [Pipeline] }, [Pipeline] // stage, [Pipeline] }, [Pipeline] // node, [Pipeline] End of Pipeline, ERROR: Build failed due to user input., Finished: FAILURE]",
+        "memory": "Log:[Started by user admin, [Pipeline] Start of Pipeline, [Pipeline] node, Running on Jenkins in /var/lib/jenkins/workspace/Job1, [Pipeline] {, [Pipeline] stage, [Pipeline] { (Check Parameter), [Pipeline] script, [Pipeline] {, [Pipeline] error, [Pipeline] }, [Pipeline] // script, [Pipeline] }, [Pipeline] // stage, [Pipeline] stage, [Pipeline] { (Declarative: Post Actions), [Pipeline] echo, Job failed. Please review your input., [Pipeline] }, [Pipeline] // stage, [Pipeline] }, [Pipeline] // node, [Pipeline] End of Pipeline, ERROR: Build failed due to user input., Finished: FAILURE]\n\nUser: Hi, My name is Rithiga. What can you do?\nGemini: Hi Rithiga!  I'm a DevOps engineer specializing in Jenkins. I can answer your Jenkins questions and analyze Jenkins logs to troubleshoot issues.  Ask me anything!\n\nUser: What is Jenkins?\nGemini: Jenkins is an open-source automation server used for Continuous Integration/Continuous Delivery (CI/CD).  It helps automate software build, test, and deployment processes.\n\nUser: Hello\nGemini: Hello!\n\nUser: Hello\nGemini: Hello!\n\nUser: Hello\nGemini: Hello!\n\nUser: Hello\nGemini: Hello!\n",
+        "history": {
+            "1738043665": {
+                "user": "[Started by user admin, [Pipeline] Start of Pipeline, [Pipeline] node, Running on Jenkins in /var/lib/jenkins/workspace/Job1, [Pipeline] {, [Pipeline] stage, [Pipeline] { (Check Parameter), [Pipeline] script, [Pipeline] {, [Pipeline] error, [Pipeline] }, [Pipeline] // script, [Pipeline] }, [Pipeline] // stage, [Pipeline] stage, [Pipeline] { (Declarative: Post Actions), [Pipeline] echo, Job failed. Please review your input., [Pipeline] }, [Pipeline] // stage, [Pipeline] }, [Pipeline] // node, [Pipeline] End of Pipeline, ERROR: Build failed due to user input., Finished: FAILURE]",
+                "gemini": "The issue is due to user input. Please review your input."
+            },
+            "1738043679": {
+                "user": "Hi, My name is Rithiga. What can you do?",
+                "gemini": "Hi Rithiga!  I'm a DevOps engineer specializing in Jenkins. I can answer your Jenkins questions and analyze Jenkins logs to troubleshoot issues.  Ask me anything!\n"
+            },
+            "1738043721": {
+                "user": "What is Jenkins?",
+                "gemini": "Jenkins is an open-source automation server used for Continuous Integration/Continuous Delivery (CI/CD).  It helps automate software build, test, and deployment processes.\n"
+            },
+            "1738143691": {
+                "user": "Hello",
+                "gemini": "Hello!\n"
+            },
+            "1738143775": {
+                "user": "Hello",
+                "gemini": "Hello!\n"
+            },
+            "1738143805": {
+                "user": "Hello",
+                "gemini": "Hello!\n"
+            },
+            "1738143851": {
+                "user": "Hello",
+                "gemini": "Hello!\n"
+            }
+        }
+    },
+    "30": {
+        "job_name": "Job 1",
+        "build_number": "30"
+    },
+    "360": {
+        "job_name": "Job 56",
+        "build_number": "200"
+    },
+    "361": {
+        "job_name": "Job 2",
+        "build_number": "31"
+    },
+    "362": {
+        "job_name": "Job 3",
+        "build_number": "32"
+    },
+    "363": {
+        "job_name": "Job 4",
+        "build_number": "33"
+    },
+    "364": {
+        "job_name": "Job 5",
+        "build_number": "34"
+    },
+    "365": {
+        "job_name": "Job 6",
+        "build_number": "35"
+    },
+    "366": {
+        "job_name": "Job 7",
+        "build_number": "36"
+    },
+    "367": {
+        "job_name": "Job 8",
+        "build_number": "37"
+    },
+    "368": {
+        "job_name": "Job 9",
+        "build_number": "38"
+    },
+    "369": {
+        "job_name": "Job 10",
+        "build_number": "39"
+    },
+    "370": {
+        "job_name": "Job 11",
+        "build_number": "40"
+    }
+}
